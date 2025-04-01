@@ -14,7 +14,7 @@ ___
 
   ___
 
-### 📍 Посилання на код**
+### 📍 Посилання на код
 
 [Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd1/Main.java)
  ___
