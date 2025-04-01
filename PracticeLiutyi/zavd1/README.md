@@ -15,7 +15,6 @@ ___
   ___
 
 :file_folder: **Посилання на завдання** :point_down:
-  ___
 
 [Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd1/Main.java)
  ___
