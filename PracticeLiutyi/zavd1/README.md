@@ -1,3 +1,5 @@
+___
+
 # **Завдання №1 **
 
 ### :scroll: **Завдання**
@@ -9,3 +11,10 @@ ___
 
 ### :pencil2: **Результат виконання завдання:**
 ![Image](https://github.com/user-attachments/assets/4d9552b8-c008-4efd-a846-b5649d5c1903)
+
+  ___
+
+:file_folder: **Посилання на завдання** :point_down:
+  ___
+[Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd1/Main.java)
+
