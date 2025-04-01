@@ -8,4 +8,4 @@ ___
 
 
 ### :pencil2: **Результат виконання завдання:**
-! [/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd1/РезультатЗавд2.png](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+! [Image Alt](https://github.com//DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd1/РезультатЗавд2.png)
