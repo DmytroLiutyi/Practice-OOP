@@ -25,3 +25,7 @@ ___
 
 [Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd2/main2.java)
 ___
+
+![Image](https://github.com/user-attachments/assets/bf5e398b-e313-4c7a-9d1d-59670afaa77e)
+
+
