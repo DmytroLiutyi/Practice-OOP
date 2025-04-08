@@ -12,3 +12,5 @@ ___
 ___
 ### 📍 **Результат виконання завдання:** 
 ![Image](https://github.com/user-attachments/assets/d2ab6f84-46fa-4660-afdd-ff8ed26c7ceb)
+
+[Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd2/main3.java)
