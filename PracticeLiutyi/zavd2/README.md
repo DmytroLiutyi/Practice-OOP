@@ -22,3 +22,6 @@ ___
 ___
 
 ![Image](https://github.com/user-attachments/assets/d75b483e-34ac-4865-bb70-4de997aa2abf)
+
+[Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd2/main2.java)
+___
