@@ -11,3 +11,4 @@ ___
 5. Розробити тареалізувати інтерфейс для "фабрикуючого" методу.
 ___
 ### 📍 **Результат виконання завдання:** 
+![Image](https://github.com/user-attachments/assets/d2ab6f84-46fa-4660-afdd-ff8ed26c7ceb)
