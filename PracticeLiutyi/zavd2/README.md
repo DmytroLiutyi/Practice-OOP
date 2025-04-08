@@ -11,7 +11,8 @@ ___
 4. Виконати індивідуальне завдання згідно номеру в списку.
 ___
 ### 📍 **Результат виконання завдання:** 
-### 2.1
 ![Image](https://github.com/user-attachments/assets/8fa21890-840b-4857-907f-94814d9ea57e)
 
 [Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd2/main.java)
+___
+
