@@ -9,3 +9,5 @@ ___
 ___
 ### 📍 **Результат виконання завдання:**
 ![Image](https://github.com/user-attachments/assets/f93ce009-a21a-4f71-a95d-10bf5e540c92)
+
+[Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd5/main.java)
