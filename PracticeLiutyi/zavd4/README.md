@@ -13,4 +13,6 @@ ___
 ### 📍 **Результат виконання завдання:** 
 ![Image](https://github.com/user-attachments/assets/dc053685-19de-455f-a632-83eb84db14bc)
 
-[Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd3/main.java)
+[Код](https://github.com/DmytroLiutyi/Practice-OOP/blob/main/PracticeLiutyi/zavd4/main.java)
+
+___
